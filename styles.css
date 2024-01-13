@@ -77,9 +77,9 @@ h2 {
 }
 
 .project-card img {
-    border-radius: 0; /* Use square shape by setting border-radius to 0 */
-    max-height: 200px; /* Adjust the maximum height as needed */
-    object-fit: cover; /* Ensure the image covers the container */
+    border-radius: 0; 
+    max-height: 200px; 
+    object-fit: cover; 
 }
 
 .project-card:hover {
